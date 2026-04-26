@@ -6,7 +6,7 @@ edition = "2021"
 license-file = "../../LICENSE"
 
 [lib]
-crate-type = ["cdylib", "lib"]
+crate-type = ["lib"]
 name = "squads_multisig_program"
 
 [features]
